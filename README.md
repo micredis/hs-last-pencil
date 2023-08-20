@@ -23,15 +23,15 @@ The bot follows a specific strategy:
 
 ## Setup & Execution
 1. Ensure you have Python 3 installed. If not, install it using:
-<pre>
+```bash
   sudo apt-get install python3
-</pre>
+```
 2. Clone this repository:
-<pre>
+```bash
   git clone https://github.com/micredis/hs-last-pencil.git
-</pre>
+```
 3. Run the game:
-<pre>
+```bash
   python3 hs-last-pencil/task/game.py
-</pre>
+```
 Follow the on-screen prompts to play.
